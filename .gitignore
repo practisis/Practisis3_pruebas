@@ -13,7 +13,34 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
-
+**/errores
+**/Otros
+**/Script
+**/Uninstall
+uninstall.exe
+wic_x86_esn.exe
+wyUpdate.exe
+servicio.xml
+wingen.xml
+wingenbo.xml
+wingenser.xml
+C1.WPF.4.dll
+C1.WPF.DateTimeEditors.4.dll
+C1.WPF.DataGrid.4.dll
+AutomaticUpdaterWPF.dll
+C1.WPF.FlexGrid.4.dll
+ESRI.ArcGIS.Client.dll
+ESRI.ArcGIS.Client.Toolkit.dll
+lua5.1.dll
+Mono.Security.dll
+Newtonsoft.Json.dll
+Npgsql.dll
+Xceed.Compression.Formats.v5.1.dll
+Xceed.Compression.v5.1.dll
+Xceed.FileSystem.v5.1.dll
+Xceed.Ftp.v5.1.dll
+Xceed.Wpf.Toolkit.dll
+Xceed.Zip.v5.1.dll
 # =========================
 # Operating System Files
 # =========================
