@@ -9,6 +9,8 @@ Desktop.ini
 $RECYCLE.BIN/
 
 # Windows Installer files
+!*.dll
+!*.exe
 *.cab
 *.msi
 *.msm
@@ -41,6 +43,7 @@ Xceed.FileSystem.v5.1.dll
 Xceed.Ftp.v5.1.dll
 Xceed.Wpf.Toolkit.dll
 Xceed.Zip.v5.1.dll
+
 # =========================
 # Operating System Files
 # =========================
